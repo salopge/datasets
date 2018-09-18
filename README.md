@@ -7,3 +7,6 @@ datasets
 * ml_100k.csv
   * It belongs to [grouplens](https://grouplens.org)
   * data description: (user ID, item ID, rating, timestamp)
+* balance-scale.data
+  * It belogs to [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/balance+scale)
+  
