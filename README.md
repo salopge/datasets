@@ -11,3 +11,5 @@ datasets
   * It belongs to [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/balance+scale)
 * iris.data
   * It belongs to [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
+* ml-latest-small/*
+  * It belongs to [grouplens](https://grouplens.org/)
