@@ -1,0 +1,16 @@
+user,title,rating
+Alice,Romance Movie 1,5.0
+Alice,Romance Movie 2,5.0
+Alice,Action Movie 1,1.0
+Alice,Action Movie 2,1.5
+Bob,Romance Movie 1,4.0
+Bob,Romance Movie 2,2.0
+Bob,Action Movie 1,3.5
+Bob,Action Movie 2,3.0
+Carol,Romance Movie 1,1.0
+Carol,Romance Movie 3,1.5
+Carol,Action Movie 1,5.0
+Carol,Action Movie 2,4.5
+Dave,Romance Movie 1,1.0
+Dave,Romance Movie 2,1.0
+Dave,Action Movie 1,4.0
